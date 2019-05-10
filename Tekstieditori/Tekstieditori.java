@@ -4,7 +4,6 @@ import java.awt.event.*;  // Importit käytettäville komponenteille.
 import java.awt.*;
 import javax.swing.*;
 import javax.swing.text.*;
-
 import java.io.*;
 
 /**
