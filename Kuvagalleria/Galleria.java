@@ -39,12 +39,12 @@ public class Galleria extends JFrame implements ActionListener  {
         int y = ikoni.getIconHeight();
         int x = ikoni.getIconWidth();
 
-        if (x > 1800) {
-            x = 1800;
-        }
-        if (y > 1054) {
-            y = 1054;
-        }
+            if (x > 1800) {
+                x = 1800;
+            }
+            if (y > 1054) {
+                y = 1054;
+            }
 
         alusta.setSize(x + 100, y + 100);
         paneeli.setBounds(0, y - 100, x, 100);
