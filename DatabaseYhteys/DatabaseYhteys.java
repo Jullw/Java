@@ -22,6 +22,7 @@ public class DatabaseYhteys {
     public static void main(String[] args) {
 
         try {
+            
 
             DatabaseYhteys objekti_DB_yhteys = new DatabaseYhteys();  //Tehdaan yhteydestä objekti.
 
